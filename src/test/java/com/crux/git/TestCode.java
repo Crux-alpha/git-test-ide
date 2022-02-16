@@ -6,6 +6,7 @@ public class TestCode{
 		System.out.println("second update");
 		System.out.println("third update");
 		System.out.println("Hot Fix...");
+		System.out.println("hot fix update");
 		System.out.println("master update");
 	}
 }
